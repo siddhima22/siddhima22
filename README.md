@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/siddhima-de-537921262/](https://www.linkedin.com/in/siddhima-de-537921262/)
 
-- ⚡ Fun fact **I love making exciting UI!**
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
