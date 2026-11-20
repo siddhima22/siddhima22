@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhima22&label=Profile%20views&color=0e75b6&style=flat" alt="siddhima22" /> </p>
 
-- 🌱 I’m currently a Computer Science student
+- 🌱 I’m currently a Software Developer at Clevertap
 - 📫 How to reach me **siddhimade@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/siddhima-de-537921262/](https://www.linkedin.com/in/siddhima-de-537921262/)
